@@ -1,2 +1,1 @@
-# promptassure
-Automated LLM Evaluation &amp; AI Safety Platform
+Prompt Assure is an open-source developer platform that provides automated testing, evaluation, and guardrails for LLMs and AI agents. We help developers validate the accuracy, reliability, and performance of their API integrations before they reach production.
